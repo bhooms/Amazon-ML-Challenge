@@ -388,14 +388,14 @@ The objective is to build an accurate and scalable system capable of linking noi
 
 ## 👥 Team
 
-**Team:** `<Your Team Name>`
+**Team:** `<ERROR101>`
 
 **Members:**
 
-* `<Member 1>`
-* `<Member 2>`
-* `<Member 3>`
-* `<Member 4>`
+* `<Seema Birajdar>`
+* `<Harini Thirunagari>`
+* `<Bhoomi Patil>`
+* `<Madhura Mane>`
 
 ---
 
