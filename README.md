@@ -352,14 +352,6 @@ The solution follows the competition requirements:
 
 ---
 
-## 🔒 Fair Play
-
-This project uses only the data and resources permitted by the challenge.
-
-No external business identity lookup or external data augmentation is used for resolving entities. The challenge explicitly prohibits external databases, APIs, geocoding services, and internet-based entity lookup.
-
----
-
 ## 📈 Future Improvements
 
 Potential improvements to the pipeline include:
